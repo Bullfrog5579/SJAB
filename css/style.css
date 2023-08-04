@@ -1,0 +1,103 @@
+body
+  
+   {
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   color: white;
+   background-color: rgba(228, 61, 0, 0.836); 
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Xv9Mzq_Ecd7CH9P1-HUghbLQm7ZtEkFNGg&usqp=CAU);
+   background-size: 150%;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   }
+
+
+h1
+  
+   {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 900;
+      font-size: xx-large;
+      font-style: italic;
+      line-height: 200px;
+      background-color: purple;
+      color: crimson;
+      text-align: center;
+      width: 100%;
+   }
+
+
+
+img
+   
+   {
+      max-width: 350px;
+      height: auto;
+      margin-left: 40px;
+      margin-right: 40px;
+   }
+
+
+
+a
+  
+   {
+      text-decoration: none;
+      color:purple;   
+   }
+
+
+a:hover
+   
+   {
+      text-decoration: underline;
+   }
+
+
+.tabs
+   {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 900;
+      font-size: xx-large;
+      font-style: normal;
+      line-height: 50px;
+      width: auto;
+      text-decoration: crimson;
+      box-sizing: border-box;
+      color: purple;
+      margin: 60px;
+      border-width: 5px;
+      border-style: double;
+      border-color: purple;
+      display: inline-flex;
+      justify-content: flex-start;
+      margin-left: 10%;
+      margin-right: 10%;
+      
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+   
